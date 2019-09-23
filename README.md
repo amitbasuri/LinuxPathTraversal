@@ -1,5 +1,5 @@
 # LinuxPathTraversal
-Application which does a Linux Path Traversal in memory. This ishowon how to implement tree data structure and tree traversal in golang.
+Application which does a Linux Path Traversal in memory. This repo is based on how to implement tree data structure and tree traversal in golang.
 
 ### Example Commands
 ```bash
